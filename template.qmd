@@ -1,7 +1,7 @@
 ---
 title: "Lab 2: Julia Quickstart"
 subtitle: "Functions, Logic, and Packages"
-author: "YOUR NAME <NETID>" # YOU SHOULD EDIT THIS
+author: "Patricia Hashimoto pch3" # YOU SHOULD EDIT THIS
 date: 2024-01-19
 week: 2
 categories: [Lab]
@@ -12,7 +12,7 @@ jupyter: julia-1.10
 # execution options
 execute:
   freeze: auto  
-  cache: true
+  #cache: true
 
 format: 
     html:
