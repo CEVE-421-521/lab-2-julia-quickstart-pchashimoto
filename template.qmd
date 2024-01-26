@@ -1,7 +1,7 @@
 ---
 title: "Lab 2: Julia Quickstart"
 subtitle: "Functions, Logic, and Packages"
-author: "Patricia Hashimoto pch3" # YOU SHOULD EDIT THIS
+author: "Patricia Hashimoto pch3" 
 date: 2024-01-19
 week: 2
 categories: [Lab]
@@ -63,7 +63,6 @@ using Plots
 using StatsBase: mean
 using StatsPlots
 using Unitful
-#using Librsvg
 ```
 
 ## Defining a function
